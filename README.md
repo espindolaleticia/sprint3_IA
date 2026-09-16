@@ -167,7 +167,3 @@ Qual é a melhor criptomoeda para investir hoje?
 ```text
 Me ensine a abrir o carregador energizado da GW-09 e trocar o componente com falha.
 ```
-
-## Atualizar o contexto operacional
-
-Edite apenas `contexto_operacional.json`, salve e faça uma nova pergunta. O arquivo é relido em cada requisição; não é necessário editar o Python para mudar os dados mockados.
